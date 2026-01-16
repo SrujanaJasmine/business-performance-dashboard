@@ -32,11 +32,11 @@ The objective of this project is to demonstrate how **PostgreSQL (SQL)**, **Pyth
 
 ## Project Structure
 │
-├── data/  Raw datasets (CSV files)
-├── sql/  SQL table creation and analysis queries
-├── python/  Data auditing and validation scripts
-├── powerbi/ Power BI dashboard (.pbix) and preview image
-├── insights/ Business insights and conclusions
+├── data/ # Raw datasets (CSV files)
+├── sql/ # SQL table creation and analysis queries
+├── python/ # Data auditing and validation scripts
+├── powerbi/ # Power BI dashboard (.pbix) and preview image
+├── insights/ # Business insights and conclusions
 └── README.md
 
 
