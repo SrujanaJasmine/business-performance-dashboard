@@ -1,23 +1,61 @@
-
-# Business Performance Dashboard - Eccommerce Analysis
+# Business Performance Dashboard – Ecommerce Analysis
 
 ## Project Overview
+This project analyzes business performance data for an ecommerce mart, with a focus on revenue trends, country-level performance, customer value, and product category insights.
 
-This project analyzes business performance data for an ecommerce fashion retailer, focusing on revenue trends, country-level performance, and key business drivers.
+The objective of this project is to demonstrate how **PostgreSQL (SQL)**, **Python**, and **Power BI** can be used together to support **data-driven decision-making** for cross-functional business teams such as Marketing, Supply, and Country Management.
 
-The goal is to demonstrate how SQL, Python, and Power BI can be used together to support data-driven decision making for cross-functional business teams.
+
+
+## Key Objectives
+- Monitor core business KPIs such as revenue, orders, and customer value  
+- Identify seasonal revenue trends  
+- Analyze country-level and category-level performance  
+- Support customer-centric and performance-driven business insights  
+
+
+
+## Tools & Technologies
+- **PostgreSQL** – Data storage and analytical SQL queries  
+- **Python** – Data auditing and validation  
+- **Power BI** – Interactive dashboards and performance reporting  
+
+
+
+## Power BI Dashboard Preview
+
+> The dashboard provides an executive-level overview of business performance, including KPIs, revenue trends, country contribution, category performance, and customer distribution.
+
+![Business Performance Dashboard](powerbi/dashboard_preview.png)
+
+
 
 ## Project Structure
-data/ - raw and processed datasets
+│
+├── data/  Raw datasets (CSV files)
+├── sql/  SQL table creation and analysis queries
+├── python/  Data auditing and validation scripts
+├── powerbi/ Power BI dashboard (.pbix) and preview image
+├── insights/ Business insights and conclusions
+└── README.md
 
-sql/ - analytical SQL queries
 
-python/ - data preprocessing scripts
 
-powerbi/ - POWER BI dashboard file
+## Key Insights
+- Strong overall business performance driven by healthy revenue and order volume  
+- Clear seasonality in monthly revenue trends  
+- Revenue concentration in top-performing countries  
+- High revenue contribution from Books and Electronics categories  
+- Strong customer value reflected in revenue per customer  
 
-insights/ - business insights and conclusions
-
+## Business Value
+This project demonstrates how analytical insights can be translated into actionable recommendations for:
+- Marketing campaign planning  
+- Inventory and supply optimization  
+- Country-level performance monitoring  
+- Customer-centric strategy development  
 
 ## Status
-Project setup completed. Data ingestion and analysis in progress.
+✅ Project setup completed  
+✅ Data ingestion and SQL analysis completed  
+✅ Power BI dashboard finalized  

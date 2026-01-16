@@ -1,3 +1,5 @@
+CREATE DATABASE business_dashboard
+
 CREATE TABLE customers(
     customer_id VARCHAR(50) PRIMARY KEY,
     customer_name VARCHAR(50),

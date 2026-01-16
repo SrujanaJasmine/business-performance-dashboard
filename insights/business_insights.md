@@ -1,4 +1,6 @@
 ## Business Performance Insights
+## Overview
+This project analyzes transactional business data to evaluate overall performance, customer value, country-level contribution, and product category trends. The analysis uses PostgreSQL for data modeling and SQL-based analytics, with Power BI used for interactive reporting and visualization.
 
 ## Conclusions
 
